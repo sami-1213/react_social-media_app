@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "date": "Sep 26, 2023 09:00:00 AM",
+      "newpost": "This is my First post of myself"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "date": "Sep 26, 2023 09:00:00 AM",
+      "newpost": "This is my Second post"
+    },
+    {
+      "id": 3,
+      "title": "Third Post",
+      "date": "October, 03, 2023, 10:20:27 AM",
+      "newpost": "This is my Third post, hello guys! ;)"
+    },
+    {
+      "id": 4,
+      "title": "Fourth Post",
+      "date": "Sep 26, 2023 09:00:00 AM",
+      "newpost": "This is my Fourth post"
+    },
+    {
+      "id": 5,
+      "title": "Fifth Post",
+      "date": "October, 02, 2023, 6:06:22 AM",
+      "newpost": "Hello guys, how are you all??"
+    },
+    {
+      "id": 6,
+      "title": "Completed !",
+      "date": "October, 03, 2023, 11:53:44 AM",
+      "newpost": "Successfully completed the YouTube React course of Balachandra.in 🥳🎉🎊"
+    }
+  ]
+}
